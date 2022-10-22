@@ -42,7 +42,7 @@ let teksbio2 = `┆⫹⫺ 💌 Nama : Rizzerz
 ┆⫹⫺ ⏰ Tanggal lahir : Private
 ┆⫹⫺ 🎨 Umur : 15
 ┆⫹⫺ 🧮 Kelas : 10
-┆⫹⫺ 🧩 Hobby : Banyak
+┆⫹⫺ 🧩 Hobby : Ngedit
 ┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
 ┆⫹⫺ 🗺️ Tinggal : Indonesia, Tangerang
 └––––––––––––·•
