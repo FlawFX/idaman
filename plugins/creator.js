@@ -96,7 +96,7 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
                 ['Menu', `${usedPrefix}menu`]
             ], m, { contextInfo: { mentionedJid: [nomorown1] }})*/
  conn.send2ButtonImg(m.chat, fs.readFileSync('./media/own.jpg').buffer, teksnomor, `Halo ${tag}\nIᴛᴜ Oᴡɴᴇʀ Kᴜ⫺⫰⫹\n` + botdate, `Sewa Bot`, `.sewa`, 'Menu', `.menu`, ftroli, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://instagram.com/karfuanyogich',
+    mediaUrl: 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl',
     mediaType: 2, 
     description: sgc,
     title: "Join Sini Juga Cuy!",
@@ -109,7 +109,7 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
             case 'bio':
           //conn.sendHydrated(m.chat, teksbio, wm, ppown, sig, "📷 Instagram", nomorown, '🌹 Nomor', [[null, null], [null, null],[null,null]], m)
 
-   conn.sendButton(m.chat, '┍┈༺ *BioData Yogi* ༻', teksbio, ppown, [
+   conn.sendButton(m.chat, '┍┈༺ *BioData* ༻', teksbio, ppown, [
                 ['Sewa Bot', `${usedPrefix}sewa`],
                 ['Menu', `${usedPrefix}menu`]
             ], m)
@@ -117,7 +117,7 @@ await conn.sendMessage(m.chat, { contacts: { displayName: wm, contacts: [{ vcard
                         case 'bio2':
           //conn.sendHydrated(m.chat, teksbio, wm, ppown, sig, "📷 Instagram", nomorown, '🌹 Nomor', [[null, null], [null, null],[null,null]], m)
 
-          conn.sendButton(m.chat, '┍┈༺ *BioData Rizki* ༻', teksbio2, ppown2, [
+          conn.sendButton(m.chat, '┍┈༺ *BioData* ༻', teksbio2, ppown2, [
                 ['Sewa Bot', `${usedPrefix}sewa`],
                 ['Menu', `${usedPrefix}menu`]
             ], m)
