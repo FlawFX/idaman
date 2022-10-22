@@ -81,7 +81,7 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['6289510598381', 'Flawz', true],
-['', '', true]
+['6285693603298', 'Rizzerz', true]
 ]
 global.mods = []
 global.prems = []
@@ -169,7 +169,7 @@ global.eror = '404 Error!'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.benar = 'Sipp Bener! ◕◡◕'
-global.salah = 'Pinter Banget! ◕◠◕'
+global.salah = 'Pinter Banget, Coba lagi yah! ◕◠◕'
 global.dikit = "Dikit Lagi Ngab, Semangat!!"
 
 
